@@ -1,4 +1,6 @@
-# Welcome to Omeka
+# Welcome to Morningside Heights: a Digital History, a project of the Columbia Libraries' Humanities and History Division's Developing Librarian Initiative.
+
+The project will be using Omkea, a free software, the use terms of which are described below.
 
 &copy; 2008-2012 [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/)
 
