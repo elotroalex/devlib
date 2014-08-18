@@ -1,4 +1,4 @@
-
+<?php echo head(array('bodyid'=>'home', 'bodyclass' =>'two-col')); ?>
 <div id="primary">
     <?php if ($homepageText = get_theme_option('Homepage Text')): ?>
     <p><?php echo $homepageText; ?></p>
@@ -15,6 +15,7 @@
     <div id="featured-collection">
         <h2><?php echo __('Featured Collection'); ?></h2>
         <?php echo random_featured_collection(); ?>
+    </div><!-- end featured collection -->
     <?php endif; ?>
     <?php if ((get_theme_option('Display Featured Exhibit')) && function_exists('exhibit_builder_display_random_featured_exhibit')): ?>
     <!-- Featured Exhibit -->
@@ -51,4 +52,4 @@
     <?php fire_plugin_hook('public_home', array('view' => $this)); ?>
 
 </div><!-- end secondary -->
-
+<?php echo foot(); ?>
