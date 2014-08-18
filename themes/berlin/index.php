@@ -1,3 +1,9 @@
+<html> 
+<head> 
+<title> DevLib </title>
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+</head>
+<body>
 
 <div id="primary">
     <?php if ($homepageText = get_theme_option('Homepage Text')): ?>
@@ -51,4 +57,4 @@
     <?php fire_plugin_hook('public_home', array('view' => $this)); ?>
 
 </div><!-- end secondary -->
-
+</body>
