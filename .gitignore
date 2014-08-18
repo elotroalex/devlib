@@ -22,11 +22,11 @@
 # /themes/
 
 # Files
-# /files/original/*
-# /files/fullsize/*
-# /files/square_thumbnails/*
-# /files/theme_uploads/*
-# /files/thumbnails/*
+/files/original/*
+/files/fullsize/*
+/files/square_thumbnails/*
+/files/theme_uploads/*
+/files/thumbnails/*
 
 # For macs
 .DS_Store
