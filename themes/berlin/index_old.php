@@ -4,7 +4,7 @@
 <link rel="stylesheet" type="text/css" href="themes/berlin/css/style.css">
 </head>
 <body>
-echo "<div style='text-align:center'><h1>Morningside Heights: A Digital History (1820-1950)</h1>
+<h1>Morningside Heights: A Digital History (1820-1950)</h1>
 <!-- Commented out old index file -->
 <!--<div id="primary">
     <?php if ($homepageText = get_theme_option('Homepage Text')): ?>
