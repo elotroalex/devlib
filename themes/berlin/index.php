@@ -1,5 +1,5 @@
-<?php echo head(array('bodyid'=>'home', 'bodyclass' =>'two-col')); ?>
-<!-- 
+<!-- <?php echo head(array('bodyid'=>'home', 'bodyclass' =>'two-col')); ?>
+ 
 <div id="primary">
     <?php if ($homepageText = get_theme_option('Homepage Text')): ?>
     <p><?php echo $homepageText; ?></p>
