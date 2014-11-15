@@ -392,6 +392,7 @@ body {
   color: #333;
   background: #fff;
   background-image: url("../../../files/images/morningside_map.jpg");
+  background-size: cover;
 }
 
 form, fieldset {
