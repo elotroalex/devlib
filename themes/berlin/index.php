@@ -8,7 +8,17 @@
     
 <body>
 <div id="primary-home"><img id="logo" src="files/images/mhdh-logo.png" width="100%">
-<div id="homepage-menu">Empty box</div>
+
+<div id="homepage-menu">About</div>
+
+<div id="homepage-menu">Morningside History</div>
+
+<div id="homepage-menu">Images</div>
+
+<div id="homepage-menu">Bibliography</div>
+
+<div id="homepage-menu">Contact Us</div>
+
 </div>
 </body>
 
