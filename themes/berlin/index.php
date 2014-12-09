@@ -7,8 +7,8 @@
 </head>
     
 <body>
-<div id="primary-home"><img id="logo" src="files/images/mhdh-logo.png" alt="Smiley face"  width="100%">
-<p id="homepage-menu">Empty box</p>
+<div id="primary-home"><img id="logo" src="files/images/mhdh-logo.png" width="100%">
+<div id="homepage-menu">Empty box</div>
 </div>
 </body>
 
