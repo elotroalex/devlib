@@ -8,7 +8,7 @@
     
 <body>
 <div id="primary-home"><img id="logo" src="files/images/mhdh-logo.png" width="100%">
-
+<br> </br>
 <div id="homepage-menu">About</div>
 
 <div id="homepage-menu">Morningside History</div>

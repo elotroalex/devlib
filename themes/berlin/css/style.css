@@ -56,15 +56,16 @@ div#primary-home {
     padding: 0px;
     border: 2px solid navy;
     margin: 25px;
-    background:rgba(1,96,137,0.66);
+    background:rgba(255,255,255,0.8);
     
 }
 
 div#homepage-menu {
 	margin-left: 30px;
-	color: white;
+	color: navy;
 	font-family: Old Standard TT;
 	font-size: 24px;
+	line-height: 50px;
 	}
 
 
