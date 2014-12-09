@@ -52,10 +52,14 @@ audio:not([controls]) {
 
 div#primary-home {
     width: 300px;
-    padding: 25px;
-    border: 25px solid navy;
+    height: 400px;
+    padding: 0px;
+    border: 10px solid navy;
     margin: 25px;
+    background:rgba(100,100,100,0.6);
+    
 }
+
 
 /* ==========================================================================
    Base
