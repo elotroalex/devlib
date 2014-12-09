@@ -8,7 +8,7 @@
     
 <body>
 <div id="primary-home"><img id="logo" src="files/images/mhdh-logo.png" alt="Smiley face"  width="100%">
-<p>Empty box</p>
+<p id="homepage-menu">Empty box</p>
 </div>
 </body>
 
